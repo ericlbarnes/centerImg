@@ -1,0 +1,22 @@
+{
+  "name": "centerImg",
+  "version": "1.0.0",
+  "authors": [
+    "Eric Barnes <eric@ericlbarnes.com>"
+  ],
+  "description": "Center an image outside a container",
+  "main": "dist/centerImg.min.js",
+  "keywords": [
+    "center",
+    "image"
+  ],
+  "license": "MIT",
+  "homepage": "http://ericlbarnes.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

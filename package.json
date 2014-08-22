@@ -1,0 +1,19 @@
+{
+  "name": "centerImg",
+  "description": "jQuery plugin to center an image outside of a container",
+  "version": "1.0.0",
+  "author": "Eric Barnes <eric@ericlbarnes.com>",
+  "homepage": "http://ericlbarnes.com/",
+  "main": "dist/centerImg.js",
+  "repository": "https://github.com/ericbarnes/centerImg.git",
+  "keywords": [
+    "image"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-uglify": "^0.3.1",
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "gulp-rename": "^1.2.0"
+  }
+}
